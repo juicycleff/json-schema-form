@@ -16,6 +16,7 @@ coverage
 
 # Visual Studio Code
 .vscode/*
+.idea/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
