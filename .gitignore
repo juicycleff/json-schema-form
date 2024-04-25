@@ -24,7 +24,7 @@ coverage
 !.vscode/*.code-snippets
 
 # Build Files
-dist
+#dist
 *.tgz
 # from unzipping .tgz
 package
